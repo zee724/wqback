@@ -1,0 +1,6 @@
+{
+  "name": "WQ Back App - Production",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
