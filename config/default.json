@@ -1,3 +1,5 @@
 {
-  "name": "WQ Back App"
+  "name": "WQ Back App",
+  "db": "mongodb://localhost/wqgame",
+  "jwtPrivateKey": "hahatest"
 }
